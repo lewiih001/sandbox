@@ -18,5 +18,3 @@ txn CloseRemainderTo
 txn Receiver 
 ==
 &&
-
-goal clerk compile passphrase.teal
